@@ -7,7 +7,7 @@ Tags:
   - Strings
 ---
 
-# 🚀 _Day 7. Print Anagrams Together_ 🧠
+# 🚀 _Day 48. Print Anagrams Together_ 🧠
 
 The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/print-anagrams-together)
 
